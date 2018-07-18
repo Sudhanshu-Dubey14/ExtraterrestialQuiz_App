@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#9C27B0</item>
+        <item name="colorPrimaryDark">#7B1FA2</item>
+        <item name="colorAccent">#E040FB</item>
+    </style>
+
+    <style name="instruct_head">
+        <item name="android:textColor">#E1BEE7</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+
+    <style name="instructions">
+        <item name="android:textColor">#CE93D8</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingBottom">12dp</item>
+    </style>
+
+    <style name="Question">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style>
+
+    <style name="option">
+        <item name="android:textSize">18dp</item>
+        <item name="android:buttonTint">#E040FB</item>
+        <item name="android:textColorHint">#B0BEC5</item>
+        <item name="android:textColor">#B0BEC5</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:background">#7B1FA2</item>
+        <item name="android:layout_margin">22dp</item>
+        <item name="android:textColor">#B0BEC5</item>
+    </style>
+
+</resources>
